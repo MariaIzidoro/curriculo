@@ -1,0 +1,27 @@
+
+body {
+    background-color: lightgoldenrodyellow;
+    color:darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    border-style:double;
+    border-radius: 5%;
+    float: right;
+    margin: 10px;
+}
+
+h2, h6{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+
+}
+
+section {
+    font-size: 15px;
+
+}
